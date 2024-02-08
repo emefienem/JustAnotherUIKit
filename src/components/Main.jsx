@@ -9,15 +9,15 @@ const Main = () => {
   return (
     <section
       ref={homeRef}
-      className="flex items-center justify-center text-white pt-20 md:pt-32 text-center pb-[150px] md:pb-[300px] md:px-[400px] flex-col max-w-full"
+      className="flex items-center justify-center text-white pt-20 md:pt-32 text-center pb-[150px] md:pb-[300px] md:px-[300px] flex-col max-w-full"
     >
-      <h1 className="text-3xl md:text-5xl text-center  z-20 relative">
+      <h1 className="text-3xl md:text-6xl text-center  z-20 relative">
         It doesn&apos;t matter what{" "}
-        <span className="text-[#FFFF00]">JS Framework </span>you work with
+        <span className="text-[#FFFF00]">JS Framework </span>you work with.
       </h1>
       <p className="font-[400] text-white pt-3 text-sm md:text-[24px] px-16 md:px-0 pb-8">
         Our boiler plates works with it{" "}
-        <span className="text-[#91D2F7]">out-of-the-box</span>
+        <span className="text-[#91D2F7]">out-of-the-box.</span>
       </p>
       <div className="flex space-x-3">
         <div className="flex">

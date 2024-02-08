@@ -6,7 +6,7 @@ const Contact = () => {
 
   return (
     <section className="text-white py-28 px-8 md:px-28" ref={contactRef}>
-      <h3 className="text-3xl pb-8">Contact</h3>
+      <h3 className="text-3xl md:text-4xl pb-8">Contact</h3>
       <div className="text-center ">
         <p>Fill out this form to reach us</p>
         <div className="space-y-4 md:space-y-0 md:space-x-2 py-5">

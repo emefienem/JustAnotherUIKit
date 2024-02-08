@@ -9,8 +9,8 @@ const About = () => {
       className="text-white py-28 max-w-full md:max-w-[1290px] px-8 md:px-28"
       ref={aboutRef}
     >
-      <h2 className="text-3xl pb-8">About</h2>
-      <p className="text-sm ">
+      <h2 className="text-3xl md:text-4xl pb-8">About</h2>
+      <p className="text-xl ">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet
         consectetur adipiscing elit pellentesque habitant. Cras pulvinar mattis
